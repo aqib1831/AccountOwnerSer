@@ -1,0 +1,6 @@
+2018-08-09 17:43:43.3995 Debug FileTarget(Name=logfile): Process file 'C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\2018-08-09_logfile.txt' on startup
+2018-08-09 17:43:43.3995 Debug Creating file appender: C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\2018-08-09_logfile.txt
+2018-08-09 17:43:43.3995 Trace Opening C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\2018-08-09_logfile.txt with allowFileSharedWriting=False
+2018-08-09 17:43:43.4289 Trace Opening C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\2018-08-09_logfile.txt with allowFileSharedWriting=False
+2018-08-09 17:43:43.4434 Trace Opening C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\2018-08-09_logfile.txt with allowFileSharedWriting=False
+2018-08-09 17:43:43.4434 Trace Opening C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\2018-08-09_logfile.txt with allowFileSharedWriting=False

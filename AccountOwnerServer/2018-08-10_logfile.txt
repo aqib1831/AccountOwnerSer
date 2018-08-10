@@ -1,0 +1,15 @@
+2018-08-10 14:31:41.0875 INFO Returned all owners from database.
+2018-08-10 14:39:12.5758 INFO Returned all owners from database.
+2018-08-10 14:41:15.0740 INFO Returned all owners from database.
+2018-08-10 14:42:17.0974 INFO Returned all owners from database.
+2018-08-10 14:46:23.7496 INFO Returned all owners from database.
+2018-08-10 14:46:43.7780 INFO Returned all owners from database.
+2018-08-10 14:47:20.4618 INFO Returned all owners from database.
+2018-08-10 14:47:33.5022 INFO Returned all owners from database.
+2018-08-10 14:47:45.9135 INFO Returned all owners from database.
+2018-08-10 14:48:47.3490 INFO Returned all owners from database.
+2018-08-10 14:50:17.2108 INFO Returned all owners from database.
+2018-08-10 14:53:07.4070 INFO Returned all owners from database.
+2018-08-10 14:59:50.9657 INFO Returned all owners from database.
+2018-08-10 15:05:33.6124 INFO Returned all owners from database.
+2018-08-10 15:25:32.6606 INFO Returned all owners from database.

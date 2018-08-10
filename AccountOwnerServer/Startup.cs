@@ -1,22 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using AccountOwnerServer.Extensions;
+using Microsoft.AspNetCore.HttpOverrides;
+using System.IO;
 using NLog.Extensions.Logging;
+using Contracts;
 
 namespace AccountOwnerServer
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration,ILoggerFactory loggerFactory)
+        public Startup(IConfiguration configuration, ILoggerFactory loggerFactory)
         {
             loggerFactory.ConfigureNLog(String.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
             Configuration = configuration;
@@ -24,30 +26,35 @@ namespace AccountOwnerServer
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.ConfigureCors();
-            services.ConfigureIISIntergration();
-            services.ConfigureLoggerService();
-            services.AddMvc();
 
+            services.ConfigureIISIntegration();
+
+            services.ConfigureLoggerService();
+
+            services.ConfigureMySqlContext(Configuration);
+
+            services.ConfigureRepositoryWrapper();
+
+            services.AddMvc();
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
-            app.UseCors("CorsPolicy");
-            // Forword prxy header to current request
-            app.UseForwardedHeaders(new ForwardedHeadersOptions
-            {
-                ForwardedHeaders = ForwardedHeaders.All
-            });
-            //will point on the index page in the Angular project.
+
+            //app.UseCors("CorsPolicy");
+
+            //app.UseForwardedHeaders(new ForwardedHeadersOptions
+            //{
+            //    ForwardedHeaders = ForwardedHeaders.All
+            //});
+
             app.Use(async (context, next) =>
             {
                 await next();
@@ -59,7 +66,9 @@ namespace AccountOwnerServer
                     await next();
                 }
             });
+
             app.UseStaticFiles();
+
             app.UseMvc();
         }
     }

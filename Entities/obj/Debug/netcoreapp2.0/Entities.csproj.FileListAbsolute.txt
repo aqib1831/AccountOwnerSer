@@ -1,0 +1,27 @@
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Entities\bin\Debug\netcoreapp2.0\Entities.deps.json
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Entities\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Entities\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Entities\obj\Debug\netcoreapp2.0\Entities.csprojAssemblyReference.cache
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Entities\obj\Debug\netcoreapp2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Entities\obj\Debug\netcoreapp2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Entities\obj\Debug\netcoreapp2.0\Entities.AssemblyInfo.cs
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Entities\obj\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Entities\obj\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\Entities\bin\Debug\netcoreapp2.0\Entities.deps.json
+C:\Users\maqib\source\repos\AccountOwnerServer\Entities\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\Entities\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.0\Entities.csprojAssemblyReference.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.0\Entities.AssemblyInfo.cs
+C:\Users\maqib\source\repos\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Entities\bin\Debug\netcoreapp2.0\Entities.deps.json
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Entities\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Entities\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Entities\obj\Debug\netcoreapp2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Entities\obj\Debug\netcoreapp2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Entities\obj\Debug\netcoreapp2.0\Entities.AssemblyInfo.cs
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Entities\obj\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Entities\obj\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Entities\obj\Debug\netcoreapp2.0\Entities.csprojAssemblyReference.cache

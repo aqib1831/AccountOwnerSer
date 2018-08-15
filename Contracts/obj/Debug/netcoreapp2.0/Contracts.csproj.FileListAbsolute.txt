@@ -1,0 +1,36 @@
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Contracts\bin\Debug\netcoreapp2.0\Contracts.deps.json
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Contracts\bin\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Contracts\bin\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Contracts\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Contracts\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Contracts\obj\Debug\netcoreapp2.0\Contracts.csprojAssemblyReference.cache
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Contracts\obj\Debug\netcoreapp2.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Contracts\obj\Debug\netcoreapp2.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Contracts\obj\Debug\netcoreapp2.0\Contracts.AssemblyInfo.cs
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Contracts\obj\Debug\netcoreapp2.0\Contracts.csproj.CopyComplete
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Contracts\obj\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Contracts\obj\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.0\Contracts.deps.json
+C:\Users\maqib\source\repos\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.csprojAssemblyReference.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.AssemblyInfo.cs
+C:\Users\maqib\source\repos\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.csproj.CopyComplete
+C:\Users\maqib\source\repos\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Contracts\bin\Debug\netcoreapp2.0\Contracts.deps.json
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Contracts\bin\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Contracts\bin\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Contracts\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Contracts\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Contracts\obj\Debug\netcoreapp2.0\Contracts.csprojAssemblyReference.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Contracts\obj\Debug\netcoreapp2.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Contracts\obj\Debug\netcoreapp2.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Contracts\obj\Debug\netcoreapp2.0\Contracts.AssemblyInfo.cs
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Contracts\obj\Debug\netcoreapp2.0\Contracts.csproj.CopyComplete
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Contracts\obj\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Contracts\obj\Debug\netcoreapp2.0\Contracts.pdb

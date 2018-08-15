@@ -23,17 +23,18 @@ namespace Repository
 
         public Owner GetOwnerById(Guid ownerId)
         {
-            return FindByCondition(owner => owner.Id.Equals(ownerId))
+            var ownerDetail= FindByCondition(owner => owner.Id.Equals(ownerId.ToString()))
                     .DefaultIfEmpty(new Owner())
                     .FirstOrDefault();
+            return ownerDetail;
         }
 
         public OwnerExtended GetOwnerWithDetails(Guid ownerId)
-        {
+       {
             return new OwnerExtended(GetOwnerById(ownerId))
             {
                 Accounts = RepositoryContext.Accounts
-                    .Where(a => a.OwnerId == ownerId)
+                    .Where(a => a.OwnerId == ownerId.ToString())
             };
         }
 

@@ -1,0 +1,60 @@
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.deps.json
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.runtimeconfig.json
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.runtimeconfig.dev.json
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.pdb
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\bin\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\bin\Debug\netcoreapp2.0\LoggerService.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\bin\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\bin\Debug\netcoreapp2.0\LoggerService.pdb
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.csprojAssemblyReference.cache
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.csproj.CoreCompileInputs.cache
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.AssemblyInfoInputs.cache
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.AssemblyInfo.cs
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.csproj.CopyComplete
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.deps.json
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.runtimeconfig.json
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.runtimeconfig.dev.json
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\LoggerService.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\LoggerService.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.csprojAssemblyReference.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.csproj.CoreCompileInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.AssemblyInfoInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.AssemblyInfo.cs
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.csproj.CopyComplete
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.deps.json
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.runtimeconfig.json
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.runtimeconfig.dev.json
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\bin\Debug\netcoreapp2.0\LoggerService.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\bin\Debug\netcoreapp2.0\LoggerService.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.csprojAssemblyReference.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.csproj.CoreCompileInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.AssemblyInfoInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.AssemblyInfo.cs
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.csproj.CopyComplete
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.pdb

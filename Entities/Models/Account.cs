@@ -21,6 +21,6 @@ namespace Entities.Models
         public string AccountType { get; set; }
 
         [Required(ErrorMessage = "Owner Id is required")]
-        public Guid OwnerId { get; set; }
+        public string OwnerId { get; set; }
     }
 }

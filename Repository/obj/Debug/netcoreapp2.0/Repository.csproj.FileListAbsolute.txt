@@ -1,0 +1,42 @@
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\bin\Debug\netcoreapp2.0\Repository.deps.json
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\bin\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\bin\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\obj\Debug\netcoreapp2.0\Repository.csprojAssemblyReference.cache
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfo.cs
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CopyComplete
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\obj\Debug\netcoreapp2.0\Repository.dll
+C:\Users\maqib\Desktop\.NET-Core-Series-master\Part 6\Repository\obj\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Repository.deps.json
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.0\Repository.csprojAssemblyReference.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfo.cs
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CopyComplete
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.0\Repository.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\bin\Debug\netcoreapp2.0\Repository.deps.json
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\bin\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\bin\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\obj\Debug\netcoreapp2.0\Repository.csprojAssemblyReference.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfo.cs
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CopyComplete
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\obj\Debug\netcoreapp2.0\Repository.dll
+C:\Users\maqib\source\repos\AccountOwnerServer\AccountOwnerSer\Repository\obj\Debug\netcoreapp2.0\Repository.pdb
